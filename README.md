@@ -1,2 +1,2 @@
-# Dio trilha Java basico
+# Dio trilha Java básico
  Meu aprendizado através do curso de java da DIO.
